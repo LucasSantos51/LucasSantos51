@@ -1,9 +1,8 @@
-<section>
-Olá! eu sou o Lucas Santos😎
+<section align="center">
+   <h2>Olá! eu sou o <a href="#">Lucas Santos😎</a></h1>
 
-📃 Futuro Frond-End Developer
-
-📚 Estudando CSS Avançado
+   <h4>📃 Futuro Frond-End Developer</h2>
+   <h4>📚 Estudando CSS Avançado</h2>
 
 
 <div style="display: inline_block"><br>
@@ -13,12 +12,12 @@ Olá! eu sou o Lucas Santos😎
 ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCSHZP0Nb83sILRNMLOcCAlQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_lucassants_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Twd74XPKVA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   <a href="https://www.youtube.com/channel/UCSHZP0Nb83sILRNMLOcCAlQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/_lucassants_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://discord.gg/Twd74XPKVA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:l123vitorfs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-<div align="center">
+  <a href="# target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
 
   ![Animação de cobra](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
@@ -55,7 +54,7 @@ Olá! eu sou o Lucas Santos😎
 </div>
   
   
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
  
 </div>
 

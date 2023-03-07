@@ -1,13 +1,14 @@
-<section>
-   <h2>Olá! eu sou o <a href="#">Lucas Santos😎</a></h2>
+<section >
+ 
+   <h2>Falaaa Programador! Seja Bem-Vindo. 😎</h2>
 
    
 ### 👨🏻‍💻 &nbsp;Sobre min
-💡 Gosto de explorar novas tecnologias e desenvolver soluções web.
-🎓 Atualmente estou estudando CSS moderno.
-🌱 Estou no caminho certo para aprender mais sobre Front-end.
-✍️ No meu tempo livre, gosto de praticar programação e assistir futebol.\
-📄 Por favor, dê uma olhada no meu currículo para mais detalhes sobre mim. Estou aberto a críticas e sugestões!
+   💡  Gosto de explorar novas tecnologias e desenvolver soluções web.\
+   🎓 Atualmente estou estudando CSS moderno.\
+   🌱 Estou no caminho certo para aprender mais sobre Front-end.\
+   ✍️ No meu tempo livre, gosto de praticar programação e assistir futebol.\
+   📄 Por favor, dê uma olhada no meu currículo para mais detalhes sobre mim. Estou aberto a críticas e sugestões!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
    
@@ -16,18 +17,18 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
    
-<div>
+<div align="center">
    
  ![Animação de cobra](https://raw.githubusercontent.com/danielbped/danielbped/output/github-contribution-grid-snake.svg)
 
-
+</div>
    
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/LucasSantos51">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasSantos51&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucasSantos51&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasSantos51&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucasSantos51&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -45,7 +46,7 @@
    
    
 
-
+</section>
 
 
 

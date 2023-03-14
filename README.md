@@ -5,7 +5,7 @@
    
 ### 👨🏻‍💻 &nbsp;Sobre min
    💡  Gosto de explorar novas tecnologias e desenvolver soluções web.\
-   🎓 Atualmente estou estudando CSS moderno.\
+   🎓 Atualmente estou estudando JavaScript.\
    🌱 Estou no caminho certo para aprender mais sobre Front-end.\
    ✍️ No meu tempo livre, gosto de praticar programação e assistir futebol.\
    📄 Por favor, dê uma olhada no meu currículo para mais detalhes sobre mim. Estou aberto a críticas e sugestões!
@@ -23,7 +23,7 @@
 
 </div>
    
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Análise
 
 <p align="center">
 <a href="https://github.com/LucasSantos51">

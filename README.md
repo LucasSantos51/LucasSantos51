@@ -5,7 +5,7 @@
    
 ### 👨🏻‍💻 &nbsp;Sobre min
    💡  Gosto de explorar novas tecnologias e desenvolver soluções web.\
-   🎓 Atualmente estou estudando Bulma.\
+   🎓 Atualmente estou estudando Bootstrap.\
    🌱 Estou no caminho certo para aprender mais sobre Front-end.\
    📄 Por favor, dê uma olhada no meu currículo para mais detalhes sobre mim. Estou aberto a críticas e sugestões!
 

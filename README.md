@@ -5,8 +5,8 @@
    
 ### 👨🏻‍💻 &nbsp;Sobre min
    💡  Gosto de explorar novas tecnologias e desenvolver soluções web.\
-   🎓 Atualmente estou estudando Bootstrap.\
-   🌱 Estou no caminho certo para aprender mais sobre Front-end.\
+   🎓 Atualmente estou estudando JavaScript.\
+   🌱 Estou no caminho certo para aprender mais sobre Frontend.\
    📄 Por favor, dê uma olhada no meu currículo para mais detalhes sobre mim. Estou aberto a críticas e sugestões!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
